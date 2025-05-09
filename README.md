@@ -32,8 +32,8 @@ This is a web-based application for recognizing handwritten digits using multipl
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/ZOROVIKKY/DigitRecognition.git
+   cd DigitRecognition
    ```
 
 2. **Create a Virtual Environment** (recommended):
